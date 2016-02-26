@@ -1,0 +1,38 @@
+Study
+	Trace.Write and Trace.Assert
+	Different toString overloads of the DateTime, int and float types
+	Using delegates with and without lambda expressions
+	Regular Expressions
+	Events and "multicast delegates"
+		- How to implement events?
+		- Are all subscribers called even though one of them raise an exception?
+	Assemblies
+		- What is a the "probing option"?
+		- What is the AssemblyDelaySignAttribute?
+	MethodImpl attribute
+		- What is this attribute?
+	Locking
+		- When does it make sense to lock a type instead of an object?
+	Regular Expressions
+		- How does compiled regular expressions work?
+	Serializers
+		- How to work with the JavaScriptSerializer?
+		- How to work with the DataContractSerializer?
+		- What is the difference between the JavaScript serializer and the DataContractSerializer?
+		- How to work with the XmlSerializer?
+	Exceptions
+		- What is the InvalidCastException?
+	Data
+		- How to use the SqlConnection class?
+		- How to use the SqlCommand class?
+		- How to use the SqlDataReader class?
+		- How to use the TransactionScope class?
+	Hashing
+		- How to use the HashAlgorithm class?
+	Files
+		- How to use the File class?
+	Useful interfaces
+		- IComparable
+		- IEquatable
+	Console
+		- Study the available methods
