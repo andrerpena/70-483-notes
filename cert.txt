@@ -9,6 +9,7 @@ Study
 	Assemblies
 		- What is a the "probing option"?
 		- What is the AssemblyDelaySignAttribute?
+		- How to sign assemblies?
 	MethodImpl attribute
 		- What is this attribute?
 	Locking
@@ -31,8 +32,13 @@ Study
 		- How to use the HashAlgorithm class?
 	Files
 		- How to use the File class?
+		- What are all possible ways of reading and writing a file?
+		- How to lock a file for reading and writing?
 	Useful interfaces
 		- IComparable
 		- IEquatable
 	Console
 		- Study the available methods
+	Threads
+		- How to create threads and semaphores?
+		- How to use Tasks? How to do semaphores using Tasks?
