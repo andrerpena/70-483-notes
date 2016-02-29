@@ -21,8 +21,6 @@ Study
 		- How to work with the DataContractSerializer?
 		- What is the difference between the JavaScript serializer and the DataContractSerializer?
 		- How to work with the XmlSerializer?
-	Exceptions
-		- What is the InvalidCastException?
 	Data
 		- How to use the SqlConnection class?
 		- How to use the SqlCommand class?
