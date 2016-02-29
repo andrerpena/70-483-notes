@@ -1,6 +1,6 @@
 Study
-	Trace.Write and Trace.Assert
-	Different toString overloads of the DateTime, int and float types
+
+	Number and DateTime conversiona
 	Using delegates with and without lambda expressions
 	Regular Expressions
 	Events and "multicast delegates"
@@ -10,8 +10,8 @@ Study
 		- What is a the "probing option"?
 		- What is the AssemblyDelaySignAttribute?
 		- How to sign assemblies?
-	MethodImpl attribute
-		- What is this attribute?
+		- What is the MethodImpl attribute?
+		- Study the most common attributes: https://msdn.microsoft.com/en-us/library/z371wyft.aspx?f=255&MSPPError=-2147217396#Global
 	Locking
 		- When does it make sense to lock a type instead of an object?
 	Regular Expressions
@@ -37,7 +37,7 @@ Study
 	Useful interfaces
 		- IComparable
 		- IEquatable
-	Console
+	Console and Trace
 		- Study the available methods
 	Threads
 		- How to create threads and semaphores?
