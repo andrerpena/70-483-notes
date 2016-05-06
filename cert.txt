@@ -1,8 +1,15 @@
 Study
 
-	Number and DateTime conversiona
-	Using delegates with and without lambda expressions
+	ToString and Parse
+		- What are the various ToString and Parse options for different cultures?
+	Collections
+		- What are the most popular .NET collection types? What are the best use case for them?
+	Delegates
+		- How to declare delegates?
+		- How to declare lambda expressions?
 	Regular Expressions
+		- How do regular expressions work?
+		- How does compiled regular expressions work? What is the advantage when compared to regular regular expressions?
 	Events and "multicast delegates"
 		- How to implement events?
 		- Are all subscribers called even though one of them raise an exception?
