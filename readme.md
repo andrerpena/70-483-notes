@@ -4,6 +4,8 @@ Study
 		- What are the various ToString and Parse options for different cultures?
 	Collections
 		- What are the most popular .NET collection types? What are the best use case for them?
+	WebClient
+		- How does the WebClient method works?
 	Delegates
 		- How to declare delegates?
 		- How to declare lambda expressions?
@@ -15,10 +17,11 @@ Study
 		- Are all subscribers called even though one of them raise an exception?
 	Assemblies
 		- What is a the "probing option"?
-		- What is the AssemblyDelaySignAttribute?
+		- What is the AssemblyDelaySignAttribute? How to delay sign an assembly?
 		- How to sign assemblies?
 		- What is the MethodImpl attribute?
 		- Study the most common attributes: https://msdn.microsoft.com/en-us/library/z371wyft.aspx?f=255&MSPPError=-2147217396#Global
+		- What are all the possible ways of adding an Assembly to the GAC?
 	Locking
 		- When does it make sense to lock a type instead of an object?
 	Regular Expressions
@@ -58,3 +61,8 @@ Study
 		- How to implement operator overloading?
 	Windows Event Logging
 		- How to log events on Windows?
+	Peformance Counters
+		- How to do performance counters?
+	Reflection
+		- Study all methods of Type, Assembly and PropertyInfo/Member Info
+		- How to get the current Assembly?
