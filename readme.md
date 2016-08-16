@@ -1,7 +1,7 @@
-Study
 
 	ToString and Parse
-		- What are the various ToString and Parse options for different cultures?
+	
+		- [] What are the various ToString and Parse options for different cultures?
 	Collections
 		- What are the most popular .NET collection types? What are the best use case for them?
 	WebClient
